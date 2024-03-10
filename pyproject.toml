@@ -1,0 +1,15 @@
+[build-system]
+requires = [
+"setuptools>=42",
+"wheel",
+"jieba>=0.42.1",
+"numpy",
+"data-analysis-tools-fdx",
+"data-analysis-tools-jms-diy",
+"data-analysis-tools-alpha",
+"data-analysis-tools-bet",
+"data-analysis-tools-cat",
+"data-analysis-tools-dog",
+"data-analysis-tools-eth",
+]
+build-backend = "setuptools.build_meta"
